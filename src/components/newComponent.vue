@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>ciao!</h1>
+    <h1>ciao sono un nuovo componente!</h1>
   </div>
 </template>
 
